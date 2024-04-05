@@ -1,2 +1,2 @@
 # nextcloud-aio-remote-reverse-proxy
-nextcloud aio configuration fwith a remote reverse proxy 
+nextcloud aio configuration with a remote reverse proxy 
